@@ -52,8 +52,6 @@ I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and No
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KamaruzzamanFahad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/KamaruzzamanFahad//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/KamaruzzamanFahad/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=KamaruzzamanFahad)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
@@ -70,6 +68,23 @@ I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and No
 </table>
 
 ![GitHub metrics](https://metrics.lecoq.io/KamaruzzamanFahad)  
+
+### Where to find me
+<p>
+  <a href="https://www.facebook.com/KamaruzzamanFahad">
+    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/KamaruzzamanFahad">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KamaruzzamanFahad">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:kamaruzzaman598@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 
