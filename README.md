@@ -2,32 +2,48 @@
 #### MERN Stack Web Developer | Passionate Programmer | WordPress Enthusiast | Skilled in Android App Development 
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <!-- Core Technologies -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
+
+  <!-- Frontend Frameworks and Libraries -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="DaisyUI" src="https://img.shields.io/badge/-DaisyUI-5A29E4?style=flat-square&logo=daisyui&logoColor=white" />
+
+  <!-- Backend and Development Tools -->
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" />
+  
+  <!-- Hosting and Deployment -->
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+  <!-- CMS and Design -->
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Elementor" src="https://img.shields.io/badge/-Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
-  <img alt="DaisyUI" src="https://img.shields.io/badge/-DaisyUI-5A29E4?style=flat-square&logo=daisyui&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
+
+  <!-- Programming Languages -->
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
+
 
 
 I'm a passionate MERN stack developer with a keen eye for crafting clean, efficient, and user-friendly web applications. I thrive in collaborative environments and enjoy tackling complex challenges with innovative solutions.
