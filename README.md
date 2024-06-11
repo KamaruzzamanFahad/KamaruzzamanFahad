@@ -56,9 +56,20 @@ I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and No
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KamaruzzamanFahad)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaruzzamanFahad)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamaruzzamanFahad" alt="Top Langs">
+      </a>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=KamaruzzamanFahad" alt="GitHub streak stats">
+    </td>
+  </tr>
+</table>
 
 ![GitHub metrics](https://metrics.lecoq.io/KamaruzzamanFahad)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=KamaruzzamanFahad)  
+
 
