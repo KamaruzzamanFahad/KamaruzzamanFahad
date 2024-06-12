@@ -1,4 +1,4 @@
-### Hi there 👋, my name is KamaruzzamanFahad
+### Hi there 👋, my name is Kamaruzzaman Fahad
 #### MERN Stack Web Developer | Passionate Programmer | WordPress Enthusiast | Skilled in Android App Development 
 <h3>When I code, I rely on</h3>
 <p>
