@@ -85,7 +85,11 @@ I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and No
   <a href="mailto:kamaruzzaman598@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/+8801998088098">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
 
 
 
