@@ -55,11 +55,6 @@ I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and No
   <img src="https://profile-counter.glitch.me/KamaruzzamanFahad/count.svg?"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <br clear="both">
 
