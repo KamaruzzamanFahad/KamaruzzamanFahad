@@ -51,23 +51,30 @@ I'm a passionate MERN stack developer with a keen eye for crafting clean, effici
 I leverage my expertise in the MERN stack (MongoDB, Express.js, React.js, and Node.js) to develop robust and scalable web applications. My skills encompass front-end development, back-end development, and database management, allowing me to deliver a well-rounded development experience.
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KamaruzzamanFahad/count.svg?"  />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KamaruzzamanFahad)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamaruzzamanFahad" alt="Top Langs">
-      </a>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=KamaruzzamanFahad" alt="GitHub streak stats">
-    </td>
-  </tr>
-</table>
+<p align="left">Hello World!!</p>
 
-![GitHub metrics](https://metrics.lecoq.io/KamaruzzamanFahad)  
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KamaruzzamanFahad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamaruzzamanFahad&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <br clear="both">
+  <br clear="both">
+  <img src="https://github-readme-stats.vercel.app/api?username=KamaruzzamanFahad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamaruzzamanFahad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KamaruzzamanFahad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+</div>
+
+###
 
 ### Where to find me
 <p>
