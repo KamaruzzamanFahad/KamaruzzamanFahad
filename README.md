@@ -1,6 +1,13 @@
 ### Hi there 👋, my name is Kamaruzzaman Fahad
 #### MERN Stack Web Developer | Passionate Programmer | WordPress Enthusiast | Skilled in Android App Development 
+<h3></h3>
 <h3>When I code, I rely on</h3>
+<!-- <h3>Provlem Solving c, c++, python</h3>
+<h3>Web Development Front End javascript, react, next js</h3>
+<h3>Backend node js, express js/h3>
+<h3>Database Mysql, Mongo Db/h3>
+<h3>Android Java/h3>
+<h3>Desktop application c# python/h3> -->
 <p>
   <!-- Core Technologies -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
