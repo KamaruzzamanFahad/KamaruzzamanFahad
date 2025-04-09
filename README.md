@@ -22,7 +22,7 @@
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
 
-### 📱 For Android And Desktop:
+### 📱 For Mobile And Desktop:
 <p>
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
 <img alt="PySide6" src="https://img.shields.io/badge/-PySide6-41CD52?style=flat-square&logo=python&logoColor=white" />
