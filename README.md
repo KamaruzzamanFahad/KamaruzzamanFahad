@@ -3,7 +3,7 @@
 <h3></h3>
 <h3>When I code, I rely on</h3>
 
-### 🔧For Backend:
+### 🔧 For Backend:
 <p>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -15,7 +15,7 @@
 
 
 
-### 🎨For Frontend:
+### 🎨 For Frontend:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -31,7 +31,7 @@
 <img alt="WPF" src="https://img.shields.io/badge/-WPF-512BD4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-### 🌐More Languages & Technologies I Know:
+### 🛠️</> More Languages & Technologies I Know:
 
 <p>
 <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
